@@ -23,6 +23,7 @@ Ensure you have Python 3.8+ installed on your machine.
 Navigate into the project directory:
 Bash
 cd data_science_project
+
 Data Unpacking: Extract the compressed .zip file containing the segmented .csv files directly into this main folder to view the aggregated results.
 
 Install the required Python libraries to review the code and visualizations:
